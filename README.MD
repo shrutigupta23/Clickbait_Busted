@@ -1,0 +1,1 @@
+‘Clickbait_Busted’ is a prototype of a game with a purpose that uses intelligence from people across the globe through the means of a fun gaming experience to target the news articles, whose content don’t merit the degree of sentiment expressed by their headlines commonly referred to as ‘click bait’. 
